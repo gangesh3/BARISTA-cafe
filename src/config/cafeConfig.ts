@@ -58,7 +58,7 @@ export type CafeConfig = {
  * images, colors, and five review messages before deploying for a real café.
  */
 export const cafeConfig: CafeConfig = {
-  cafeName: 'BrewBite Café',
+  cafeName: 'BARISTA Café',
   logoImage: '',
   bannerImage: '',
   tagline: 'Good food. Great moments.',
@@ -68,11 +68,11 @@ export const cafeConfig: CafeConfig = {
   backgroundColor: '#fbf5ec',
   textColor: '#30221d',
   // Example values only. Replace them with the café owner’s real URLs.
-  instagramUrl: 'https://www.instagram.com/yourcafe/',
-  whatsappUrl: 'https://wa.me/91XXXXXXXXXX',
+  instagramUrl: 'https://www.instagram.com/_barista.cafe?xtok=MWY5cTZlZHYyMmI4bw==',
+  whatsappUrl: 'https://wa.me/919998711321',
   facebookUrl: '',
   cafeWebsiteUrl: '',
-  googleReviewUrl: 'YOUR_CAFE_GOOGLE_REVIEW_URL',
+  googleReviewUrl: 'https://www.google.com/maps/place/BARISTA/@21.1664252,72.7942375,17z/data=!4m8!3m7!1s0x3be04dba30feb757:0x547cbd57a4ff367!8m2!3d21.1664252!4d72.7942375!9m1!1b1!16s%2Fg%2F11nk7tlphl!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D',
   address: 'Add the café address here',
   contactInfo: 'Add a phone number or contact detail here',
   hours: 'Add opening hours here',
